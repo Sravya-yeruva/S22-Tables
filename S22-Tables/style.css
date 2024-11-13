@@ -1,0 +1,40 @@
+#headingH{
+    font-size:1.6rem;
+    font-family:'Courier New', Courier, monospace;
+    background-color:lightgreen;
+    border-radius:5px;
+    padding:5px;
+    border:4px solid black;
+    text-align:center;
+}
+#mainD{
+    border:5px solid black;
+    width:67%;
+    height:820px;
+    background-color:antiquewhite;
+}
+.topH{
+    font-size:12px;
+    text-align: center;
+
+}
+.bottomH{
+    font-size:10px;
+    text-align:start;
+
+}
+table{
+    border:4px solid black;
+    border-collapse: collapse;
+    width:100%;
+}
+th,td{
+    border: 3px solid black;
+}
+td{
+    text-align:center;
+}
+img{
+    width:100px;
+
+}
